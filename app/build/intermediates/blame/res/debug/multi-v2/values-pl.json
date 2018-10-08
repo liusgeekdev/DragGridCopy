@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/AndroidStudioProjects/1MyPractice/1UIDesign/TopGrid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/862941bcd9ce11591a14f10c0435848c/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
